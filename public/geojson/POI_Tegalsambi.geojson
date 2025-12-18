@@ -1,0 +1,425 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "AHE Tegalsambi",
+                "jenis": "Lembaga Nonformal",
+                "kategori": "Pendidikan",
+                "kategori_label": "Pendidikan",
+                "alamat": "RT 01 RW 01",
+                "kontak": "",
+                "fasilitas": "Ruang Belajar, Meja\/Kursi, Alat Peraga",
+                "pengelola": "",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6523557,
+                    -6.614538841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "POS PAUD MATAHATI",
+                "jenis": "PAUD",
+                "kategori": "Pendidikan",
+                "kategori_label": "Pendidikan",
+                "alamat": "RT 01 RW 01",
+                "kontak": "",
+                "fasilitas": "Ruang Kelas, Toilet, Tempat Bermain",
+                "pengelola": "",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6514197,
+                    -6.614748089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Madrasah Ibtidaiah Miftahul Huda",
+                "jenis": "MI",
+                "kategori": "Pendidikan",
+                "kategori_label": "Pendidikan",
+                "alamat": "RT 08 RW 02",
+                "kontak": "",
+                "fasilitas": "(Fasilitas umum sekolah)",
+                "pengelola": "Yayasan Miftahul Huda",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6552722,
+                    -6.616783877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "SD Negeri 1 Tegalsambi",
+                "jenis": "SD",
+                "kategori": "Pendidikan",
+                "kategori_label": "Pendidikan",
+                "alamat": "RT 11 RW 02",
+                "kontak": "",
+                "fasilitas": "Ruang Kelas, Ruang Guru, Toilet",
+                "pengelola": "",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.649964,
+                    -6.615974742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "SD Negeri 2 Tegalsambi",
+                "jenis": "SD",
+                "kategori": "Pendidikan",
+                "kategori_label": "Pendidikan",
+                "alamat": "RT 11 RW 02",
+                "kontak": "",
+                "fasilitas": "Ruang Kelas, Ruang Guru, Toilet",
+                "pengelola": "",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.649787,
+                    -6.615898808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "SMP Ma'arif Tegalsambi",
+                "jenis": "SMP",
+                "kategori": "Pendidikan",
+                "kategori_label": "Pendidikan",
+                "alamat": "RT 11 RW 02",
+                "kontak": "0291-592679",
+                "fasilitas": "Ruang Kelas, Ruang Guru, Perpustakaan, Toilet",
+                "pengelola": "",
+                "web": "s.id\/smpmaariftegalsambi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.653455,
+                    -6.616393333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "SMK Ma'arif Tegalsambi",
+                "jenis": "SMK",
+                "kategori": "Pendidikan",
+                "kategori_label": "Pendidikan",
+                "alamat": "RT 11 RW 02",
+                "kontak": "0291-592679",
+                "fasilitas": "Ruang Kelas, Ruang Perpustakaan, Laboratorium, Ruang Guru, Toilet, Ruang TU",
+                "pengelola": "",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6534718,
+                    -6.616397989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "MTs. Mada Nusantara",
+                "jenis": "MTS",
+                "kategori": "Pendidikan",
+                "kategori_label": "Pendidikan",
+                "alamat": "RT 06 RW 02",
+                "kontak": "0858-6946-6559 \/ info@madanus.sch.id",
+                "fasilitas": "Ruang Kelas, Laboratorium, Perpustakaan, Fasilitas Pendidikan Agama",
+                "pengelola": "Yayasan Mada Nusantara",
+                "web": "ppdb.mts.madanus.sch.id"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6594736,
+                    -6.6177059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "MA. Mada Nusantara",
+                "jenis": "MA",
+                "kategori": "Pendidikan",
+                "kategori_label": "Pendidikan",
+                "alamat": "RT 006 RW 002",
+                "kontak": "0858-6946-6559 \/ 0813-2686-6078",
+                "fasilitas": "Ruang Kelas, Laboratorium, Perpustakaan, Fasilitas Pendidikan Agama",
+                "pengelola": "Yayasan Mada Nusantara",
+                "web": "ma.madanus.sch.id"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6594593,
+                    -6.618386734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Pondok Pesantren Miftahul Huda",
+                "jenis": "PONDOK",
+                "kategori": "Pendidikan",
+                "kategori_label": "Pendidikan",
+                "alamat": "RT 06 RW 02",
+                "kontak": "",
+                "fasilitas": "Ruang Belajar, Asrama\/Kamar Santri, Musholla",
+                "pengelola": "Yayasan Miftahul Huda",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.659415,
+                    -6.617678262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Masjid Timur Tegalsambi",
+                "jenis": "Masjid",
+                "kategori": "Agama",
+                "kategori_label": "Tempat Ibadah",
+                "alamat": "",
+                "kontak": "",
+                "fasilitas": "Tempat Wudhu, Toilet, Tempat Parkir",
+                "pengelola": "Ta'mir Masjid \/ Masyarakat",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6577704,
+                    -6.617183034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Masjid Baitul Dzaqirin",
+                "jenis": "Masjid",
+                "kategori": "Agama",
+                "kategori_label": "Tempat Ibadah",
+                "alamat": "",
+                "kontak": "",
+                "fasilitas": "Tempat Wudhu, Toilet, Tempat Parkir",
+                "pengelola": "Ta'mir Masjid \/ Masyarakat",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6556439,
+                    -6.618153833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Masjid Kulon Tegalsambi",
+                "jenis": "Masjid",
+                "kategori": "Agama",
+                "kategori_label": "Tempat Ibadah",
+                "alamat": "",
+                "kontak": "",
+                "fasilitas": "Tempat Wudhu, Toilet, Tempat Parkir",
+                "pengelola": "Ta'mir Masjid \/ Masyarakat",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6502449,
+                    -6.617214552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Musholla Bani Muhammad",
+                "jenis": "Musholla",
+                "kategori": "Agama",
+                "kategori_label": "Tempat Ibadah",
+                "alamat": "",
+                "kontak": "",
+                "fasilitas": "Tempat Wudhu, Toilet, Tempat Parkir",
+                "pengelola": "Ta'mir \/ Masyarakat setempat",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6514938,
+                    -6.615876073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Musholla Trenggulon",
+                "jenis": "Musholla",
+                "kategori": "Agama",
+                "kategori_label": "Tempat Ibadah",
+                "alamat": "",
+                "kontak": "",
+                "fasilitas": "Tempat Wudhu, Toilet, Tempat Parkir",
+                "pengelola": "Ta'mir \/ Masyarakat setempat",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6546624,
+                    -6.619525457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Musholla Hidayatul Mustakim",
+                "jenis": "Musholla",
+                "kategori": "Agama",
+                "kategori_label": "Tempat Ibadah",
+                "alamat": "",
+                "kontak": "",
+                "fasilitas": "Tempat Wudhu, Toilet, Tempat Parkir",
+                "pengelola": "Ta'mir \/ Masyarakat setempat",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6514165,
+                    -6.612415704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Musholla Baitul Muqorrobin",
+                "jenis": "Musholla",
+                "kategori": "Agama",
+                "kategori_label": "Tempat Ibadah",
+                "alamat": "RT 09\/RW 02",
+                "kontak": "",
+                "fasilitas": "Tempat Wudhu, Toilet, Tempat Parkir",
+                "pengelola": "Ta'mir \/ Masyarakat setempat",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6508512,
+                    -6.619035292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "MUSHOLLA NURUL HUDA",
+                "jenis": "Musholla",
+                "kategori": "Agama",
+                "kategori_label": "Tempat Ibadah",
+                "alamat": "",
+                "kontak": "",
+                "fasilitas": "Tempat Wudhu, Toilet, Tempat Parkir",
+                "pengelola": "Ta'mir \/ Masyarakat setempat",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6550318,
+                    -6.61769813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Bidan Anis Nuril Laili",
+                "jenis": "Pelayanan Kebidanan",
+                "kategori": "Kesehatan",
+                "kategori_label": "Kesehatan",
+                "alamat": "",
+                "kontak": "",
+                "fasilitas": "Ruang Periksa, Ruang Tunggu, Toilet",
+                "pengelola": "Bidan\/Pemilik Praktik Swasta",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6544579,
+                    -6.6166062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "PKD Tegalsambi",
+                "jenis": "Pos Kesehatan Desa",
+                "kategori": "Kesehatan",
+                "kategori_label": "Kesehatan",
+                "alamat": "",
+                "kontak": "",
+                "fasilitas": "Ruang Pemeriksaan, Ruang Tunggu, Toilet",
+                "pengelola": "Pemerintah Desa \/ Dinas Kesehatan",
+                "web": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.6519711,
+                    -6.614475935
+                ]
+            }
+        }
+    ]
+}

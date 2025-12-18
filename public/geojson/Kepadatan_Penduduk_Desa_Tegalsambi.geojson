@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Kepadatan_Penduduk_Desa_Tegalsambi",
+"features": [
+{ "type": "Feature", "properties": { "field_1": "NAMOBJ", "field_2": null, "field_3": null, "field_4": null }, "geometry": null },
+{ "type": "Feature", "properties": { "field_1": "Tegalsambi", "field_2": 2847.0, "field_3": 2754.0, "field_4": 5601.0 }, "geometry": null }
+]
+}
